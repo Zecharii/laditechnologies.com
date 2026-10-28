@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laditechnologies.com/sitemap.xml
